@@ -1,0 +1,32 @@
+body {
+    color: rgb(20, 158, 238);
+width: 100%;
+max-width: 1000px;
+margin: auto;
+background-image:url(astronomy-gc7cd4774f_1920.jpg);
+
+font-family: 'Trebuchet MS'
+line-height: 2;
+
+}
+
+main{
+background: #000000cc;
+padding-top: 5px;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    margin-top: 170px;
+    border-radius: 50PX;
+
+
+
+}
+.logo, .primario, .terceiro{
+    margin: 0;
+    text-align: center;
+}
+.inicio{
+    margin: 0;
+    text-align: center;
+}
